@@ -2,7 +2,7 @@
 # File:					ESXi Toolbox GUI.ps1
 # Creation date:		2017.01.28
 # Last modifications:	2017.02.12
-# Author :				C.CHANDRA - BIC Team
+# Author :				Munna75 - BIC Team
 # Project :				UC2 Virtualization
 ##############################################
 
