@@ -1,9 +1,9 @@
 ##############################################
-# File:					ESXi Toolbox GUI.ps1
-# Creation date:		2017.01.28
+# File:			ESXi Toolbox GUI.ps1
+# Creation date:	2017.01.28
 # Last modifications:	2017.02.12
-# Author :				Munna75 - BIC Team
-# Project :				UC2 Virtualization
+# Author :		Munna75 - BIC Team
+# Project :		UC2 Virtualization
 ##############################################
 
 ################Windows Form Loaded
